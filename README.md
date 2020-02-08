@@ -1,1 +1,1 @@
-# concatLang
+# Concatenative Language in Idris
